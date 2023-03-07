@@ -1,11 +1,8 @@
 ---
-page_type: sample
-languages:
-- php
-products:
-- azure
+Project Name: Azure App Service
+languages: php
+products: Azure
 description: "This sample demonstrates a tiny Hello World PHP app for App Service."
-urlFragment: php-docs-hello-world
 ---
 
 # PHP Hello World
